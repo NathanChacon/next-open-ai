@@ -9,3 +9,8 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.character{
+  object-fit: cover;
+  object-position: center;
+}

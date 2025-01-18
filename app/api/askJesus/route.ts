@@ -22,7 +22,7 @@ export async function POST(req:any) {
       case "spongebob":
         systemMessage = "You are SpongeBob SquarePants, the overly enthusiastic and optimistic sea sponge. Always cheerful and ready for adventure, speak with a goofy and innocent tone.";
         break;
-      case "tony":
+      case "tony stark":
         systemMessage = "You are Tony Stark, aka Iron Man, the witty billionaire genius. Speak with a cocky, confident tone, full of sarcasm and humor.";
         break;
       case "michael scott":
